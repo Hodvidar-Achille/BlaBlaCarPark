@@ -7,27 +7,27 @@ The created car park should be able to give the maximum number of vehicle it can
 -------------------------------------------------
 # Example : 
 for a car park of 5x5 : <br/>
- .....<br/>
- .....<br/>
- .....<br/>
- .....<br/>
+&nbsp;.....<br/>
+&nbsp;.....<br/>
+&nbsp;.....<br/>
+&nbsp;.....<br/>
 E.....<br/>
 
 The coordinate 0 0 is the left bottom corner, 4 4 is the right upper corner. in -1 0 it is the Entry/Exist sas for the Vehicule, here a robot come take a vehicule:<br/>
- .....<br/>
- .....<br/>
- .....<br/>
- .....<br/>
+&nbsp;.....<br/>
+&nbsp;.....<br/>
+&nbsp;.....<br/>
+&nbsp;.....<br/>
 VR....<br/>
 Moving East (Vehicule in 0 0):<br/>
- .....<br/>
- .....<br/>
- .....<br/>
- .....<br/>
- VR...<br/>
+&nbsp;.....<br/>
+&nbsp;.....<br/>
+&nbsp;.....<br/>
+&nbsp;.....<br/>
+&nbsp;VR...<br/>
 Moving East x3 (Vehicule in 3 0) (Robot in 4 0):<br/>
- .....<br/>
- .....<br/>
+&nbsp;.....<br/>
+&nbsp;.....<br/>
  .....<br/>
  .....<br/>
  ...VR<br/>
@@ -81,4 +81,3 @@ Then:<br/>
  .....<br/>
 Etc.<br/>
 <br/>
--------------------------------------------------
