@@ -13,72 +13,72 @@ for a car park of 5x5 : <br/>
  .....<br/>
 E.....<br/>
 
-The coordinate 0 0 is the left bottom corner, 4 4 is the right upper corner. in -1 0 it is the Entry/Exist sas for the Vehicule, here a robot come take a vehicule:
- .....
- .....
- .....
- .....
-VR....
-Moving East (Vehicule in 0 0):
- .....
- .....
- .....
- .....
- VR...
-Moving East x3 (Vehicule in 3 0) (Robot in 4 0):
- .....
- .....
- .....
- .....
- ...VR
-Robot turning North and moving forward by one :
- .....
- .....
- .....
- ....R
- ....V
-Robot going north:
- ....R
- ....V
- .....
- .....
- .....
-Robot turning aroung the vehicule to but it back to the north "wall"
- .....
- ...RV
- .....
- .....
- .....
-In two steps:
- .....
- ....V
- ....R
- .....
- .....
-Then pushing the vehicule:
- ....V
- ....R
- .....
- .....
-E.....
-Another Vehicule arrives in the Sas:
- ....V
- ....R
- .....
- .....
-V.....
-Then:
- ....V
- .....
- .....
- ....R
- ....V
-Then:
- ....V
- ....V
- ....R
- .....
- .....
-Etc.
-
+The coordinate 0 0 is the left bottom corner, 4 4 is the right upper corner. in -1 0 it is the Entry/Exist sas for the Vehicule, here a robot come take a vehicule:<br/>
+ .....<br/>
+ .....<br/>
+ .....<br/>
+ .....<br/>
+VR....<br/>
+Moving East (Vehicule in 0 0):<br/>
+ .....<br/>
+ .....<br/>
+ .....<br/>
+ .....<br/>
+ VR...<br/>
+Moving East x3 (Vehicule in 3 0) (Robot in 4 0):<br/>
+ .....<br/>
+ .....<br/>
+ .....<br/>
+ .....<br/>
+ ...VR<br/>
+Robot turning North and moving forward by one :<br/>
+ .....<br/>
+ .....<br/>
+ .....<br/>
+ ....R<br/>
+ ....V<br/>
+Robot going north:<br/>
+ ....R<br/>
+ ....V<br/>
+ .....<br/>
+ .....<br/>
+ .....<br/>
+Robot turning aroung the vehicule to but it back to the north "wall":<br/>
+ .....<br/>
+ ...RV<br/>
+ .....<br/>
+ .....<br/>
+ .....<br/>
+In two steps:<br/>
+ .....<br/>
+ ....V<br/>
+ ....R<br/>
+ .....<br/>
+ .....<br/>
+Then pushing the vehicule:<br/>
+ ....V<br/>
+ ....R<br/>
+ .....<br/>
+ .....<br/>
+E.....<br/>
+Another Vehicule arrives in the Sas:<br/>
+ ....V<br/>
+ ....R<br/>
+ .....<br/>
+ .....<br/>
+V.....<br/>
+Then:<br/>
+ ....V<br/>
+ .....<br/>
+ .....<br/>
+ ....R<br/>
+ ....V<br/>
+Then:<br/>
+ ....V<br/>
+ ....V<br/>
+ ....R<br/>
+ .....<br/>
+ .....<br/>
+Etc.<br/>
+<br/>
 -------------------------------------------------
